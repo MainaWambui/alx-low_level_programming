@@ -1,4 +1,4 @@
-#include "holberton.c"
+#include "main.h"
 
 /**
  * print_las_digit - prints the last digit of a number
