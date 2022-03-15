@@ -1,4 +1,4 @@
-#include "holberton.c"
+#include "main.h"
 
 /**
  * _abs - computes the abs of an integer
